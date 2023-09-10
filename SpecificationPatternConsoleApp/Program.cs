@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
 using SpecificationPatternConsoleApp.Database.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 using SpecificationPatternConsoleApp.Specifications;
