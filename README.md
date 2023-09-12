@@ -1,2 +1,2 @@
 # specification-pattern
- Skeleton of a project with Specification pattern
+ Queries to a data layer with Specification pattern
